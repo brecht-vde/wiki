@@ -25,7 +25,7 @@ In order to execute this properly, every class needs to know how they can jump d
 | No safe ways found. | No safe ways found. | **Awakening:** [hold A/D + Q] + [tap LMB/RMB] | Any i-frame ability | Crosscut | No input | No input | No input | 
 | | | **Pre-Awakening:** [hold A/D + Q] + [tap RMB] | Midnight Stinger before landing | Below the Belt | | | |
 | | | | | One Step Back | | | |
-| | | | | Dragon Bite (if timed well) | | | |
+| | | | | Dragon Bite (if timed well) | | | | |
 
 
 | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
