@@ -56,8 +56,8 @@ In order to execute this properly, every class needs to know how they can jump d
 | Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
 | Meteor | Meteor | Sanctitas de Enslar | | | | | | 
 | Chain Lightning | Blizzard | Wave of Light (if there's a target) | | | | | |
-| Blizzard | | | | | | | | |
-| Detonative Flow | | | | | | | | |
+| Blizzard | | | | | | | |
+| Detonative Flow | | | | | | | |
 | Residual Lightning | | | | | | | | |
 
 
