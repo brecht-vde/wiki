@@ -41,7 +41,7 @@ In order to execute this properly, every class needs to know how they can jump d
 | Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | No input | No input | No input |
 | Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
 | Meteor | Meteor | Sanctitas de Enslar | | | | | | 
-| Chain Lightning | | | | | | | |
+| Chain Lightning | | | | | | | | |
 
 | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -56,7 +56,7 @@ In order to execute this properly, every class needs to know how they can jump d
 | Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
 | Meteor | Meteor | Sanctitas de Enslar | | | | | | 
 | Chain Lightning | Blizzard | Wave of Light (if there's a target) | | | | | |
-| Blizzard | | | | | | | |
+| Blizzard | | | | | | | | |
 
 
 | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
