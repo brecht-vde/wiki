@@ -22,7 +22,11 @@ In order to execute this properly, every class needs to know how they can jump d
 
 | Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| No safe ways found. | No safe ways found. | Awakening: [hold A/D + Q] + [tap LMB/RMB] Pre-Awakening: [hold A/D + Q] + [tap RMB] | Any i-frame ability or using Midnight Stinger before landing | Crosscut, Below the Belt, One Step Back, Dragon Bite (requires timing) | No input | No input | No input | 
+| No safe ways found. | No safe ways found. | **Awakening:** [hold A/D + Q] + [tap LMB/RMB] | Any i-frame ability | Crosscut | No input | No input | No input | 
+| | | **Pre-Awakening:** [hold A/D + Q] + [tap RMB] | Midnight Stinger before landing | Below the Belt | | | |
+| | | | | One Step Back | | | |
+| | | | | Dragon Bite (if timed well) | | | |
+
 
 | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
 | --- | --- | --- | --- | --- | --- | --- | --- |
