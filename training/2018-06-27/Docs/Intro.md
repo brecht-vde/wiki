@@ -1,4 +1,6 @@
-# Summary of Wednesday 27/06/2018
+# Wednesday 27/06/2018
+
+# Summary
 
 1. Practiced how to safely drop down a cliff
 2. Practiced skills that can be used to attack enemies on higher ground
@@ -18,38 +20,10 @@ By dropping down a cliff as an enemy engages on you, you force your enemy to pic
 
 In order to execute this properly, every class needs to know how they can jump down a cliff fast and safely.
 
-**Witch/Wizard**
-```
-No safe ways found.
-```
+| Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| No safe ways found. | No safe ways found. | Awakening: [hold A/D + Q] + [tap LMB/RMB] Pre-Awakening: [hold A/D + Q] + [tap RMB] | Any i-frame ability or using Midnight Stinger before landing | Crosscut, Below the Belt, One Step Back, Dragon Bite (requires timing) | No input | No input | No input | No input | No input | No input | No input | No input | No input | No input | No input |
 
-**Valkyrie**
-```
-Awakening:
-   [hold A/D] + [hold Q] + [tap LMB/RMB]
-Pre-Awakening:
-   [hold A/D] + [hold Q] + [tap RMB]
-```
-
-**Sorc**
-```
-Any I-Framing skill will get you down safely. 
-Using Midnight Stinger before landing also works.
-```
-
-**Musa**
-```
-- Crosscut
-- Below The Belt
-- One Step Back
-- Dragon Bite (if timed well)
-```
-
-**Warrior, Zerker, Kunoichi, Ninja, Lahn, Ranger, Tamer, Mystic, Striker, Dark Knight, Maehwa**
-```
-Not in Guild, did not attend or no input received.
-```   
-   
 
 ## 2. Practiced skills that can be used to attack enemies on higher ground
 
