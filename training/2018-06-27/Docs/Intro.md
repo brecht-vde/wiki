@@ -36,71 +36,32 @@ In order to execute this properly, every class needs to know how they can jump d
 
 ## 2. Practiced skills that can be used to attack enemies on higher ground
 
-**Witch/Wizard**
-```
-- Fireball
-- Fireball Explosion
-- Chain Lightning
-- Meteor
-```
+| Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | No input | No input | No input |
+| Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
+| Meteor | Meteor | Sanctitas de Enslar | | | | | | 
+| Chain Lightning | | | | | | | |
 
-**Valkyrie**
-```
-- Celestial Spear
-- Celestial Smite
-- Sanctitas de Enslar
-```
+| Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| No input | No input | No input | No input | No input | No input | No input | No input |
 
-**Sorc**
-```
-- Signs of Agony
-- Dream of Doom
-```
-
-**Musa**
-```
-- Arrows
-```
-
-**Warrior, Zerker, Kunoichi, Ninja, Lahn, Ranger, Tamer, Mystic, Striker, Dark Knight, Maehwa**
-```
-Not in Guild, did not attend or no input received.
-```  
 
 ## 3. Practiced skills that can be used to attack enemies on lower ground
 
-**Witch/Wizard**
-```
-- Fireball
-- Fireball Explosion
-- Chain Lightning
-- Meteor
-- Blizzard
-```
+| Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | No input | No input | No input |
+| Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
+| Meteor | Meteor | Sanctitas de Enslar | | | | | | 
+| Chain Lightning | Blizzard | Wave of Light (if there's a target) | | | | | |
+| Blizzard | | | | | | | |
 
-**Valkyrie**
-```
-- Celestial Spear
-- Celestial Smite
-- Sanctitas de Enslar
-- Wave of Light (if there's a target)
-```
 
-**Sorc**
-```
-- Signs of Agony
-- Dream of Doom
-```
-
-**Musa**
-```
-- Arrows
-```
-
-**Warrior, Zerker, Kunoichi, Ninja, Lahn, Ranger, Tamer, Mystic, Striker, Dark Knight, Maehwa**
-```
-Not in Guild, did not attend or no input received.
-``` 
+| Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| No input | No input | No input | No input | No input | No input | No input | No input |
 
 ## 4. Practiced baiting by rubberbanding skills
 
