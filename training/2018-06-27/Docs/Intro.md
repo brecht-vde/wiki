@@ -20,9 +20,14 @@ By dropping down a cliff as an enemy engages on you, you force your enemy to pic
 
 In order to execute this properly, every class needs to know how they can jump down a cliff fast and safely.
 
-| Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| No safe ways found. | No safe ways found. | Awakening: [hold A/D + Q] + [tap LMB/RMB] Pre-Awakening: [hold A/D + Q] + [tap RMB] | Any i-frame ability or using Midnight Stinger before landing | Crosscut, Below the Belt, One Step Back, Dragon Bite (requires timing) | No input | No input | No input | No input | No input | No input | No input | No input | No input | No input | No input |
+| Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| No safe ways found. | No safe ways found. | Awakening: [hold A/D + Q] + [tap LMB/RMB] Pre-Awakening: [hold A/D + Q] + [tap RMB] | Any i-frame ability or using Midnight Stinger before landing | Crosscut, Below the Belt, One Step Back, Dragon Bite (requires timing) | No input | No input | No input | 
+
+| Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| No input | No input | No input | No input | No input | No input | No input | No input |
+
 
 
 ## 2. Practiced skills that can be used to attack enemies on higher ground
