@@ -8,6 +8,7 @@
 4. Practiced baiting by rubberbanding skills
 5. Practiced positioning on slopes
 6. Reminded everyone to stay active during idle time by using skills or placing traps
+7. Additional Tips & Feedback
 
 # Topic Details
 
@@ -23,7 +24,7 @@ In order to execute this properly, every class needs to know how they can jump d
 | Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | No safe ways found. | No safe ways found. | **Awakening:** [hold A/D + Q] + [tap LMB/RMB] | Any i-frame ability | Crosscut | No input | No input | No input | 
-| | | **Pre-Awakening:** [hold A/D + Q] + [tap RMB] | Midnight Stinger before landing | Below the Belt | | | |
+| | | **Pre-Awakening:** [hold A/D + Q] + [tap RMB] | Midnight Stinger before landing | Below the Belt | PvE roll | | |
 | | | | | One Step Back | | | |
 | | | | | Dragon Bite (if timed well) | | | | |
 
@@ -33,12 +34,11 @@ In order to execute this properly, every class needs to know how they can jump d
 | No input | No input | No input | No input | No input | No input | No input | No input |
 
 
-
 ## 2. Practiced skills that can be used to attack enemies on higher ground
 
 | Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | No input | No input | No input |
+| Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | Spear | No input | No input |
 | Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
 | Meteor | Meteor | Sanctitas de Enslar | | | | | | 
 | Chain Lightning | | | | | | | | |
@@ -52,11 +52,13 @@ In order to execute this properly, every class needs to know how they can jump d
 
 | Witch | Wizard | Valkyrie | Sorceress | Musa | Warrior | Zerker | Kunoichi | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | No input | No input | No input |
+| Fireball | Fireball | Celestial Spear | Signs of Agony | Arrows | Spear | No input | No input |
 | Fireball Explosion | Fireball Explosion | Celestial Smite | Dream of Doom | | | | |
 | Meteor | Meteor | Sanctitas de Enslar | | | | | | 
 | Chain Lightning | Blizzard | Wave of Light (if there's a target) | | | | | |
 | Blizzard | | | | | | | | |
+| Detonative Flow | | | | | | | | |
+| Residual Lightning | | | | | | | | |
 
 
 | Ninja | Lahn | Ranger | Tamer | Mystic | Dark Knight | Maehwa | Striker |
@@ -92,5 +94,13 @@ It is extremely important that you don't just stand still when there is some idl
 - Cast AOE skills, to avoid ninjas/kunos engaging on us from stealth
 - Heal team mates
 - Being aware of the map and predicting where enemies will come from
+
+## 7. Additional Tips & Feedback
+
+- As a witch it's usually not a good idea to get too close to the enemy, but calculated risks are very appreciated. In the scenario where enemies are dropping down a cliff, a witch can take advantage of that by putting pressure with the following skills:
+  * Voiltaic Pulse
+  * Thunder Storm
+- Valkyries and Mystics can put the same pressure by using their vacuums
+
 
 
