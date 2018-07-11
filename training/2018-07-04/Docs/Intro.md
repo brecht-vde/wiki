@@ -6,17 +6,7 @@
 2. Repeated attacking on a slope
 3. Practiced the combination of both
 
-| 1. Cliff Drop |
-| --- |
-| ![Cliff Drop](../Images/CliffDrop.jpg) |
-
-| 2. Slope 
-| --- |
-| ![Slope](../Images/Slope.jpg) |
-
-| 3. Cliff and Slope |
-| --- |
-| ![Cliff Drop and Slope](../Images/CliffDropSlope.jpg) |
+ ![Cliff Drop](../Images/combo.jpg)
 
 # Topic Details
 
