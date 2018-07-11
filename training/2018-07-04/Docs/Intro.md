@@ -8,7 +8,7 @@
 
 | 1. Cliff Drop | 2. Slope | 3. Cliff and Slope |
 | --- | --- | --- |
-| ![Slope](../Images/CliffDrop.png) | ![Slope](../Images/Slope.png) | ![Slope](../Images/CliffDropSlope.png) |
+| ![Slope](../Images/CliffDrop.jpg) | ![Slope](../Images/Slope.jpg) | ![Slope](../Images/CliffDropSlope.jpg) |
 
 # Topic Details
 
